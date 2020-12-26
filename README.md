@@ -1,3 +1,6 @@
+
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)](https://en.wikipedia.org/wiki/Linux)
+
 # RKTAPF
 
 <h6>Author : RKT</h6>
